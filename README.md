@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=transparent&color=blue&height=300&section=header&text=Welcome&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=blue&height=300&section=header&text=Welcome&fontSize=80)
 <!--
 **shkids/shkids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
