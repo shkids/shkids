@@ -21,7 +21,7 @@ Education
 
 ● (2021.02 ~ 2023.02) AI Computer Vision lab
 
-● (2023.03 ~ 2024.03) MarkAny AI Researcher
+●
 
 
 
