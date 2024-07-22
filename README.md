@@ -21,7 +21,7 @@ Education
 
 ● (2021.02 ~ 2023.02) AI Computer Vision lab
 
-●
+● 
 
 
 
